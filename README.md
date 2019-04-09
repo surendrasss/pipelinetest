@@ -7,7 +7,7 @@ deployed by AWS CodeDeploy and AWS CloudFormation to an Amazon EC2 instance.
 What's Here
 -----------
 
-This sample includes:
+This sample includes some changes which are done surendra:
 
 * README.md - this file
 * appspec.yml - this file is used by AWS CodeDeploy when deploying the website
